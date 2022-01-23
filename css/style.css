@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#post {
+  padding: 15px;
+}
+
+.post_article {
+  border-bottom: 2px solid #000;
+}
+
+.post_article h2 {
+  color: #555;
+  font-size: 16px;
+  text-transform: uppercase;
+}
