@@ -5,10 +5,11 @@
 }
 
 #cabecera {
-  margin: 0 0 30px;
-  padding: 10px;
-  background-color: rgb(92, 92, 179);
+	margin: 0 0 30px;
+	padding: 10px;
+	background-color: #55f;
   color: #fff;
+  box-shadow: 0px 3px 10px #1a1a1a;
 }
 
 #cabecera h1 {
