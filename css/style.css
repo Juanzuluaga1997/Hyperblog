@@ -5,17 +5,26 @@
 }
 
 #cabecera {
+  position: sticky;
+  top: 0;
 	margin: 0 0 30px;
-	padding: 10px;
-	background-color: #55f;
+	padding: 20px;
+	background-color: #33f;
   color: #fff;
   box-shadow: 0px 3px 10px #1a1a1a;
 }
 
 #cabecera h1 {
+  display: flex;
+  align-items: center;
   margin: 0;
   font-size: 24px;
   text-transform: uppercase;
+}
+
+#cabecera h1 small {
+  margin-left: 20px;
+  font-size: 14px;
 }
 
 body {
