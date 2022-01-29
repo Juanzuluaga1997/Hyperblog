@@ -7,3 +7,5 @@ Este es el nuevo relato de las historia.
 - Main 1
 
 - Main 2
+
+Nota: Tutorial para el uso y buen manejo de git.
