@@ -77,8 +77,24 @@ body {
 }
 
 #footer {
+  display: flex;
+  justify-content: flex-end;
   margin-top: 40px;
   padding: 40px;
-  background-color: #e1e1e1;
+  background-color: #c7c7c7;
   text-align: right;
+}
+
+#footer .social-list {
+  margin-right: 50px;
+}
+
+#footer .social-list ul {
+  display: flex;
+  gap: 0 15px;
+  list-style: none;
+}
+
+#footer .social-list ul a {
+  color: #000;
 }
