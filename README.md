@@ -14,7 +14,7 @@ Este es un proyecto con propositos educativos para el manejo de git y github.
 7. git rm :  Comando que elimina un archivo del seguimineto de git y tambien de la db.
 8. git reset: Comando para revertir cambios es decir devolverse a un estado anterior o commit, se puede realizar con variantes tanto para recuperar los cambios posteriores al estado seleccionado como tambien haciendo que estos sean elimiandos.
 9. git branch :  Comando para multiple usos, sirve para listar las diferentes ramas tanto locales como remotas , tambien sirve para la creacion de nuevas ramas.
-10. git merge:  Comando para la fusion del contendo de dos ramas.
+10. git merge:  Comando para la fusion del contenido de dos ramas.
 11. git diff: Comando que muestra las diferencias entre dos archivos o commits.
 12. git show:  Comando que muestra los  ultimos cambios realizados o el cambio del tag seleccionado.
 13. git config: Comando para configurar git.
