@@ -81,8 +81,8 @@ body {
   justify-content: flex-end;
   margin-top: 40px;
   padding: 40px;
-  background-color: #33f;
-  color: #fff;
+  background-color: rgb(187, 187, 187);
+  color: #2d2626;
   text-align: right;
 }
 
@@ -96,6 +96,34 @@ body {
   list-style: none;
 }
 
-#footer .social-list ul a {
+#footer .social-list ul li {
+  position: relative;
+}
+
+#footer .social-list ul li::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 10%;
+  background-color: #33f;
+  transition: .5s;
+  z-index: 0;
+}
+
+#footer .social-list ul li:hover a {
   color: #fff;
+}
+
+#footer .social-list ul li:hover::after {
+  height: 100%;
+}
+
+#footer .social-list ul a {
+  position: relative;
+  z-index: 1;
+  color: #2d2626;
+  text-decoration: none;
+  transition: .5s;
 }
