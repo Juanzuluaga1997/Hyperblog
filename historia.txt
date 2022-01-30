@@ -2,7 +2,7 @@ Este es el nuevo relato de las historia.
 
 - Exp 1
 
-- Exp 2
+- Exp 2WWW
 
 - Main 1
 
@@ -11,8 +11,5 @@ Este es el nuevo relato de las historia.
 Nota: Tutorial para el uso y buen manejo de git.
 
 Nota: Se aprende el uso comandos basicos, medios y avanzandos.
-<<<<<<< HEAD
-=======
 
 Nota: Se aprende a manejar con solvencia la herramienta.
->>>>>>> ajustes-historia
