@@ -11,3 +11,5 @@ Este es el nuevo relato de las historia.
 Nota: Tutorial para el uso y buen manejo de git.
 
 Nota: Se aprende el uso comandos basicos, medios y avanzandos.
+
+Nota: Se aprende a manejar con solvencia la herramienta.
